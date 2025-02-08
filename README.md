@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sayandeb Sarkar
-- 🌱 I’m currently learning ML,Wev Dev,AI.
+- 🌱 I’m currently learning ML,Wev Dev.
 - 👯 I’m looking to collaborate on Open Source and Open Science
 - 👀 I’m interested in learning new technology
 - 📫 How to reach me sayandebsarkar19@gmail.com
